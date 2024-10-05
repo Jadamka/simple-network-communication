@@ -17,3 +17,6 @@ Server sends message to the client.
    ./client <address> <port>
 
 # Usage Example
+![S2](https://github.com/user-attachments/assets/129e1bf4-1358-4356-beea-6ed8fa6ebdba)
+![S1](https://github.com/user-attachments/assets/daf4df34-2b65-44f7-a22a-3501dd9cd7a5)
+
